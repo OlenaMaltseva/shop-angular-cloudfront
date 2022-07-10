@@ -2,9 +2,8 @@
 
 ## Task-2 - Serve SPA in AWS S3 and Cloudfront Services
 
-[cloudfront link](https://d2rnq7j99rr1ny.cloudfront.net/) - cloudfront sls-spa generated app
-
-[s3 bucket link](http://shop-angular-cloudfront-om-spa.s3-website-us-east-1.amazonaws.com/) - s3 bucket with denied public access
+[cloudfront link](https://d1zee4ley09beh.cloudfront.net/) - cloudfront serverless-spa generated app
+[s3 bucket link](http://shop-ng-cloudfront-om-sls-spa.s3-website-us-east-1.amazonaws.com/) - s3 bucket
 
 # Shop Angular Cloudfront
 

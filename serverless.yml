@@ -31,7 +31,7 @@ plugins:
 
 custom:
   client:
-    bucketName: shop-angular-cloudfront-om-spa
+    bucketName: shop-ng-cloudfront-om-sls-spa
     distributionFolder: dist/app
     indexDocument: index.html
     manageResources: false
@@ -39,8 +39,8 @@ custom:
   s3LocalPath: ${self:custom.client.distributionFolder}/
   s3BucketName: ${self:custom.client.bucketName}
 # you can overwrite defaults here
-#  stage: dev
-#  region: us-east-1
+# stage: dev
+# region: us-east-1
 
 # you can add statements to the Lambda function's IAM Role here
 #  iam:
