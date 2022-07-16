@@ -1,3 +1,10 @@
+# Tasks
+
+## Task-2 - Serve SPA in AWS S3 and Cloudfront Services
+
+[cloudfront link](https://d1zee4ley09beh.cloudfront.net/) - cloudfront serverless-spa generated app
+[s3 bucket link](http://shop-ng-cloudfront-om-sls-spa.s3-website-us-east-1.amazonaws.com/) - s3 bucket
+
 # Shop Angular Cloudfront
 
 Angular version: ~12.
